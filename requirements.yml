@@ -1,0 +1,17 @@
+name: top3next
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7.3   
+  - numpy
+  - matplotlib
+  - gensim
+  - nltk
+  - crpyto
+  - tensorflow-gpu=1.13.1
+  - keras
+  - pytorch
+  - pandas
+  - pip
+  - pip:
+    - syft
